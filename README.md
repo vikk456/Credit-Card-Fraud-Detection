@@ -148,5 +148,5 @@ Credit-Card-Fraud-Detection/
 git clone https://github.com/your-username/Credit-Card-Fraud-Detection.git
 cd Credit-Card-Fraud-Detection
 pip install -r requirements.txt
-jupyter notebook notebooks/Credit_Card_Detection(latest).ipynb
+jupyter notebook notebooks/CreditCardAnamoly.ipynb
 ---
