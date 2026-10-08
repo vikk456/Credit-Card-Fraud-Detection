@@ -71,7 +71,6 @@ Primary focus is placed on **Recall of the Fraud Class**.
 - Scikit-learn
 - Imbalanced-learn (SMOTE)
 - Matplotlib, Seaborn
-- *(Optional)* XGBoost, FastAPI, Streamlit
 
 
 
